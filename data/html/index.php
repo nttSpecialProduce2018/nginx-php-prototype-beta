@@ -1,0 +1,4 @@
+Hello!!! php!!!
+
+<?php
+phpinfo();
